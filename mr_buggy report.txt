@@ -1,0 +1,2 @@
+okno logowania
+	rak podpowiedzi ile haslo ma miec znaków

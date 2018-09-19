@@ -1,0 +1,12 @@
+super admin kaj2     kajto1985 
+admin       ghfgh    kilo1985
+user	    hfghfgh  klop1985
+
+
+
+co sprawdzic
+
+
+Nastêpuj¹ce typu plików s¹ dozwolone jako za³¹czniki: JPEG, PNG, TXT, DOC, RTF, PDF, ZIP, RAR, 7Z, TXT, XML, XLS. Co wiêcej, pliki o rozszerzeniach JPEG oraz PNG bêd¹ wyœwietlane jako miniatury na ekranach zawieraj¹cych raporty incydentów. 
+
+
